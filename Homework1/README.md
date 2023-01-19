@@ -1,5 +1,7 @@
 #Homework1 spent ~3 hours
+
 Docker
+
 ```bash
 echo "q1 answer: "
  3 docker build --help | grep '\--i' | grep 'id'
